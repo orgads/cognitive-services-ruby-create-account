@@ -114,4 +114,4 @@ cs_client.cognitive_services_accounts.delete(GROUP_NAME, ACCOUNT_NAME)
 ```
 
 ## More information
-Please refer to [Azure SDK for Ruby](https://github.com/Azure/azure-sdk-ruby) for more information.
+Please refer to [Azure SDK for Ruby](https://github.com/Azure/azure-sdk-for-ruby) for more information.
